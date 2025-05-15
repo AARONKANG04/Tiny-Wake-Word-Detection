@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.npy
+*.wav
+*.pt
+.vscode/
+.env/
+venv/
+data/
+experiments/
+.DS_Store
